@@ -1,0 +1,13 @@
+# System dependencies for Streamlit Cloud deployment
+# These will be installed with apt-get
+
+# Audio processing libraries
+libsndfile1-dev
+libasound2-dev
+portaudio19-dev
+
+# FFmpeg for audio format conversion
+ffmpeg
+
+# Additional audio codecs
+libavcodec-extra

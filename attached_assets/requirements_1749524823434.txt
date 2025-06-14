@@ -1,0 +1,37 @@
+# Core Streamlit and web framework
+streamlit>=1.28.0
+
+# Speech recognition
+vosk>=0.3.45
+
+# Audio processing
+soundfile>=0.12.1
+librosa>=0.10.0
+pyaudio>=0.2.11
+
+# Streamlit components
+streamlit-mic-recorder>=0.0.4
+
+# Data processing
+numpy>=1.24.0
+pandas>=1.5.0
+
+# HTTP requests and file handling
+requests>=2.31.0
+tqdm>=4.65.0
+
+# Configuration management
+PyYAML>=6.0
+
+# File format support
+wave
+
+# Progress bars and UI enhancements
+plotly>=5.15.0
+
+# Optional: For better audio format support
+pydub>=0.25.1
+
+# Testing (optional)
+pytest>=7.4.0
+pytest-streamlit>=0.1.0

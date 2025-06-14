@@ -1,0 +1,44 @@
+# Vosk Speech-to-Text App Configuration
+
+app:
+  title: "Multi-Language Speech-to-Text"
+  description: "Convert speech to text using offline Vosk models"
+  version: "1.0.0"
+  license: "Apache 2.0"
+
+# Model configuration
+models:
+  base_url: "https://alphacephei.com/vosk/models"
+  local_dir: "models"
+  supported_formats: ["wav", "mp3", "flac", "m4a"]
+
+  # Audio processing settings
+  audio:
+    sample_rate: 16000
+    channels: 1
+    sample_width: 2
+    chunk_size: 4000
+
+# UI Configuration
+ui:
+  sidebar_expanded: true
+  theme: "light"
+  max_file_size_mb: 100
+
+# Performance settings
+performance:
+  enable_caching: true
+  cache_ttl: 3600  # 1 hour
+  max_cached_models: 3
+
+# Deployment settings
+deployment:
+  cloud_provider: "streamlit_cloud"
+  auto_download_models: false  # Don't auto-download on cloud due to size
+  enable_file_upload: true
+  enable_microphone: true
+
+# Logging
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"

@@ -1,0 +1,303 @@
+[
+  {
+    "Language": "English (US)",
+    "Model_Type": "Small",
+    "WER": 9.85,
+    "Size": "40M",
+    "Model_Name": "vosk-model-small-en-us-0.15"
+  },
+  {
+    "Language": "English (US)",
+    "Model_Type": "Big",
+    "WER": 5.69,
+    "Size": "1.8GB",
+    "Model_Name": "vosk-model-en-us-0.22"
+  },
+  {
+    "Language": "English (US)",
+    "Model_Type": "Dynamic",
+    "WER": 7.82,
+    "Size": "128M",
+    "Model_Name": "vosk-model-en-us-0.22-lgraph"
+  },
+  {
+    "Language": "English (US)",
+    "Model_Type": "Big",
+    "WER": 5.64,
+    "Size": "2.3GB",
+    "Model_Name": "vosk-model-en-us-0.42-gigaspeech"
+  },
+  {
+    "Language": "English (Indian)",
+    "Model_Type": "Big",
+    "WER": 36.12,
+    "Size": "1GB",
+    "Model_Name": "vosk-model-en-in-0.5"
+  },
+  {
+    "Language": "English (Indian)",
+    "Model_Type": "Small",
+    "WER": 49.05,
+    "Size": "36M",
+    "Model_Name": "vosk-model-small-en-in-0.4"
+  },
+  {
+    "Language": "Chinese",
+    "Model_Type": "Small",
+    "WER": 23.54,
+    "Size": "42M",
+    "Model_Name": "vosk-model-small-cn-0.22"
+  },
+  {
+    "Language": "Chinese",
+    "Model_Type": "Big",
+    "WER": 13.98,
+    "Size": "1.3GB",
+    "Model_Name": "vosk-model-cn-0.22"
+  },
+  {
+    "Language": "Russian",
+    "Model_Type": "Big",
+    "WER": 4.5,
+    "Size": "1.8GB",
+    "Model_Name": "vosk-model-ru-0.42"
+  },
+  {
+    "Language": "Russian",
+    "Model_Type": "Small",
+    "WER": 22.71,
+    "Size": "45M",
+    "Model_Name": "vosk-model-small-ru-0.22"
+  },
+  {
+    "Language": "French",
+    "Model_Type": "Small",
+    "WER": 23.95,
+    "Size": "41M",
+    "Model_Name": "vosk-model-small-fr-0.22"
+  },
+  {
+    "Language": "French",
+    "Model_Type": "Big",
+    "WER": 14.72,
+    "Size": "1.4GB",
+    "Model_Name": "vosk-model-fr-0.22"
+  },
+  {
+    "Language": "German",
+    "Model_Type": "Big",
+    "WER": 9.83,
+    "Size": "1.9GB",
+    "Model_Name": "vosk-model-de-0.21"
+  },
+  {
+    "Language": "German",
+    "Model_Type": "Big",
+    "WER": 9.48,
+    "Size": "4.4GB",
+    "Model_Name": "vosk-model-de-tuda-0.6-900k"
+  },
+  {
+    "Language": "German",
+    "Model_Type": "Small",
+    "WER": 13.75,
+    "Size": "45M",
+    "Model_Name": "vosk-model-small-de-0.15"
+  },
+  {
+    "Language": "Spanish",
+    "Model_Type": "Small",
+    "WER": 16.02,
+    "Size": "39M",
+    "Model_Name": "vosk-model-small-es-0.42"
+  },
+  {
+    "Language": "Spanish",
+    "Model_Type": "Big",
+    "WER": 7.5,
+    "Size": "1.4GB",
+    "Model_Name": "vosk-model-es-0.42"
+  },
+  {
+    "Language": "Portuguese",
+    "Model_Type": "Small",
+    "WER": 68.92,
+    "Size": "31M",
+    "Model_Name": "vosk-model-small-pt-0.3"
+  },
+  {
+    "Language": "Vietnamese",
+    "Model_Type": "Small",
+    "WER": 15.7,
+    "Size": "32M",
+    "Model_Name": "vosk-model-small-vn-0.4"
+  },
+  {
+    "Language": "Vietnamese",
+    "Model_Type": "Medium",
+    "WER": 15.7,
+    "Size": "78M",
+    "Model_Name": "vosk-model-vn-0.4"
+  },
+  {
+    "Language": "Italian",
+    "Model_Type": "Small",
+    "WER": 16.88,
+    "Size": "48M",
+    "Model_Name": "vosk-model-small-it-0.22"
+  },
+  {
+    "Language": "Italian",
+    "Model_Type": "Big",
+    "WER": 8.1,
+    "Size": "1.2GB",
+    "Model_Name": "vosk-model-it-0.22"
+  },
+  {
+    "Language": "Dutch",
+    "Model_Type": "Small",
+    "WER": 22.45,
+    "Size": "39M",
+    "Model_Name": "vosk-model-small-nl-0.22"
+  },
+  {
+    "Language": "Arabic",
+    "Model_Type": "Medium",
+    "WER": 16.4,
+    "Size": "318M",
+    "Model_Name": "vosk-model-ar-mgb2-0.4"
+  },
+  {
+    "Language": "Arabic (Tunisian)",
+    "Model_Type": "Small",
+    "WER": 16.06,
+    "Size": "158M",
+    "Model_Name": "vosk-model-small-ar-tn-0.1-linto"
+  },
+  {
+    "Language": "Arabic (Tunisian)",
+    "Model_Type": "Medium",
+    "WER": 16.06,
+    "Size": "517M",
+    "Model_Name": "vosk-model-ar-tn-0.1-linto"
+  },
+  {
+    "Language": "Farsi (Persian)",
+    "Model_Type": "Big",
+    "WER": 16.7,
+    "Size": "1.6GB",
+    "Model_Name": "vosk-model-fa-0.42"
+  },
+  {
+    "Language": "Farsi (Persian)",
+    "Model_Type": "Small",
+    "WER": 23.4,
+    "Size": "53M",
+    "Model_Name": "vosk-model-small-fa-0.42"
+  },
+  {
+    "Language": "Kazakh",
+    "Model_Type": "Small",
+    "WER": 9.6,
+    "Size": "42M",
+    "Model_Name": "vosk-model-small-kz-0.15"
+  },
+  {
+    "Language": "Kazakh",
+    "Model_Type": "Medium",
+    "WER": 8.06,
+    "Size": "378M",
+    "Model_Name": "vosk-model-kz-0.15"
+  },
+  {
+    "Language": "Japanese",
+    "Model_Type": "Small",
+    "WER": 9.52,
+    "Size": "48M",
+    "Model_Name": "vosk-model-small-ja-0.22"
+  },
+  {
+    "Language": "Japanese",
+    "Model_Type": "Big",
+    "WER": 8.4,
+    "Size": "1GB",
+    "Model_Name": "vosk-model-ja-0.22"
+  },
+  {
+    "Language": "Esperanto",
+    "Model_Type": "Small",
+    "WER": 7.24,
+    "Size": "42M",
+    "Model_Name": "vosk-model-small-eo-0.42"
+  },
+  {
+    "Language": "Hindi",
+    "Model_Type": "Small",
+    "WER": 20.89,
+    "Size": "42M",
+    "Model_Name": "vosk-model-small-hi-0.22"
+  },
+  {
+    "Language": "Hindi",
+    "Model_Type": "Big",
+    "WER": 14.85,
+    "Size": "1.5GB",
+    "Model_Name": "vosk-model-hi-0.22"
+  },
+  {
+    "Language": "Polish",
+    "Model_Type": "Small",
+    "WER": 18.36,
+    "Size": "50M",
+    "Model_Name": "vosk-model-small-pl-0.22"
+  },
+  {
+    "Language": "Uzbek",
+    "Model_Type": "Small",
+    "WER": 13.54,
+    "Size": "49M",
+    "Model_Name": "vosk-model-small-uz-0.22"
+  },
+  {
+    "Language": "Korean",
+    "Model_Type": "Small",
+    "WER": 28.1,
+    "Size": "82M",
+    "Model_Name": "vosk-model-small-ko-0.22"
+  },
+  {
+    "Language": "Gujarati",
+    "Model_Type": "Big",
+    "WER": 16.45,
+    "Size": "700M",
+    "Model_Name": "vosk-model-gu-0.42"
+  },
+  {
+    "Language": "Gujarati",
+    "Model_Type": "Small",
+    "WER": 20.49,
+    "Size": "100M",
+    "Model_Name": "vosk-model-small-gu-0.42"
+  },
+  {
+    "Language": "Tajik",
+    "Model_Type": "Medium",
+    "WER": 41.1,
+    "Size": "327M",
+    "Model_Name": "vosk-model-tg-0.22"
+  },
+  {
+    "Language": "Tajik",
+    "Model_Type": "Small",
+    "WER": 38.4,
+    "Size": "50M",
+    "Model_Name": "vosk-model-small-tg-0.22"
+  },
+  {
+    "Language": "Telugu",
+    "Model_Type": "Small",
+    "WER": 87.9,
+    "Size": "58M",
+    "Model_Name": "vosk-model-small-te-0.42"
+  }
+]

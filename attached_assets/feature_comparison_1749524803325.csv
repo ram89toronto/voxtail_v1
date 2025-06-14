@@ -1,0 +1,9 @@
+Feature,Vosk,Google Cloud,Amazon Transcribe,OpenAI Whisper
+Offline Recognition,✅ Yes,❌ No,❌ No,✅ Yes
+Real-time Processing,✅ Yes,✅ Yes,✅ Yes,⚠️ Limited
+Multiple Languages,✅ 28+ languages,✅ 125+ languages,✅ 35+ languages,✅ 100+ languages
+Apache 2.0 License,✅ Yes,❌ Proprietary,❌ Proprietary,✅ MIT
+No API Costs,✅ Free,💰 Pay per use,💰 Pay per use,✅ Free
+Privacy (No Data Upload),✅ Complete,❌ Data uploaded,❌ Data uploaded,✅ Complete
+Model Size,40MB - 4.4GB,N/A (Cloud),N/A (Cloud),39MB - 1.5GB
+Internet Required,❌ No,✅ Yes,✅ Yes,❌ No

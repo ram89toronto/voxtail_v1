@@ -1,0 +1,9 @@
+Step,Phase,Task,Duration,Description
+1,Setup,Clone repository,5 min,Clone the project repository from GitHub
+2,Setup,Install dependencies,10 min,Install Python packages from requirements.txt
+3,Configuration,Configure models,5 min,Set up model configuration and language selection
+4,Development,Download test model,15 min,"Download a small model for testing (e.g., English small)"
+5,Development,Test local app,10 min,Run Streamlit app locally and test functionality
+6,Production,Deploy to cloud,20 min,Deploy to Streamlit Cloud or other hosting platform
+7,Production,Download production models,30-60 min,Download additional models as needed for production
+8,Optimization,Performance tuning,Variable,Optimize caching and model loading
